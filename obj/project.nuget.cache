@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FyzeKA4We8PEdF8ShNsTf5or7JUziweOpHthVXavEU07isRHbBlGc2SqC1cIdjnLZOuEq7L336+TgxAgAIV4fA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\piyus\\OneDrive\\Desktop\\CloudDemo\\OrderItemListWebApi\\OrderItemListWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\piyus\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
+    "C:\\Users\\piyus\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\piyus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\piyus\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
